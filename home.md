@@ -2,7 +2,7 @@
 title: Main Page
 description: 
 published: true
-date: 2021-07-07T03:46:55.831Z
+date: 2021-07-07T03:50:01.749Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-06T23:52:24.310Z
@@ -14,11 +14,13 @@ This wiki attempts to give an overview for users to
 support and educate themselves over the features  
 of the projects and how to best use them.
 
+This site makes used of collapsible sections of text. Each feature will have a support feature at the bottom of its section that will include best practices, Known issues (for that feature), and the feature most commonly asked questions on its use. If you see a shaded bar / title look to the right of the screen for the [Expand] text to expose that information. 
+
 ![expand.webp](/expand.webp)
 
 # Projects Covered
 
-## 5eTools
+## ![5etoolslogocircle.png](/5etoolslogocircle.png =24x24) 5eTools 
 
 A suite of browser-based tools for players and DMs of D&D 5e. You can download the entire project from [get.5e.tools](https://get.5etools.com/) to run a local (offline) copy. You can use the [5etools website](https://5e.tools/) and you can enhance your Roll20 or Foundry experience with its companion script's features.
 
