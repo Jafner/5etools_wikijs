@@ -2,7 +2,7 @@
 title: Homebrew Lexicon
 description: Directory of type schemata for homebrew
 published: true
-date: 2021-07-07T21:31:46.221Z
+date: 2021-07-07T21:39:54.479Z
 tags: homebrew, schema
 editor: markdown
 dateCreated: 2021-07-07T17:51:36.299Z
@@ -86,22 +86,19 @@ A description of a disease, ailment or illness and its mechnaical effect.
 
 
 ## F
-`Feats` - An Object type for homebrew
+`feat` - An Object type for homebrew
 Feats that can be chosen by a character
 
 ## G
 
 ## H
-`Hazard` - An Object type for homebrew
-:::: These are most often enviromental hazards and climate issues, not as simple as traps but still worthwhile.
+`hazard` - An Object type for homebrew
+These are most often enviromental hazards and climate issues, though can also include traps.
 
-
-
-
-### I
+## I
 [item](/en/homebrew/lexicon/item) - An Object type for homebrew
 Items are the most complicated homebrew structures due to their broad scope which covers:
-Magical & Mundane items, Trade Goods, Tool Kits, Mounts, Vehicles, Instruments, Weapons, Armour etc.
+Magical & Mundane items, Trade Goods, Tool Kits, Mounts, Vehicles, Instruments, Weapons, Armour, etc.
 
 
 
