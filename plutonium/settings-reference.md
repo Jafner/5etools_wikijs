@@ -2,7 +2,7 @@
 title: Settings Reference
 description: A Visual reference for the Plutonium Settings Config Manager
 published: true
-date: 2021-07-07T22:16:09.213Z
+date: 2021-07-07T22:17:58.260Z
 tags: plutonium, support
 editor: markdown
 dateCreated: 2021-07-07T22:12:29.930Z
@@ -12,19 +12,20 @@ dateCreated: 2021-07-07T22:12:29.930Z
 
 
 ##  Tab 4: Import
-![](/assets/plutonium-settings/importtab.png)
 
-
-- Add Source to Names
-# Tabs {.tabset}
-## First Tab
+# Config Window {.tabset}
+## Actors
 
 Any content here will go into the first tab...
 
-## Second Tab
+## Art Browser
 
 Any content here will go into the second tab...
 
-## Third Tab
+## Equipment Shop
 
 Any content here will go into the third tab...
+
+## Import
+
+![](/assets/plutonium-settings/importtab.png)
