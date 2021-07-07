@@ -2,7 +2,7 @@
 title: Outline
 description: Development page for outlining site content for conversion
 published: true
-date: 2021-07-07T04:15:52.461Z
+date: 2021-07-07T04:22:47.974Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-07T04:15:52.461Z
@@ -12,20 +12,15 @@ dateCreated: 2021-07-07T04:15:52.461Z
 This is essentially a table of contents for the conversion of the site. It will describe (pseudo-heirarchically) the layout of the original site and keep track of what has been converted. 
 
 # Main Page
-## Projects Covered
-### 5eTools
-### Homebrew 
-### Plutonium
-### Rivet
+## 5eTools
+## Homebrew
+## Virtual Tabletop (VTT) Tools
+### Plutonium for Foundry
+### Rivet for Foundry
 ### Foundry Worlds
-### BetteR20
-### R20 Enhancement Suite
-### 5eCrawler
-## What's New!
-### New Features
-### List of Current Features
-### Most Recent Changes (The Change Log)
-### Development Pipeline
+### VTT Enhancement Suite for Roll20
+### BetteR20 for Roll20 (Deprecated)
+## 5eCrawler for Discord
 
 # 5eTools
 ## Website
@@ -58,7 +53,7 @@ This is essentially a table of contents for the conversion of the site. It will 
 ## Known Issues
 ## Give Thanks
 
-# BetteR20
+# BetteR20 and VTT Enhancement Suite (Deprecated)
 ## Install Guide
 ## User Guide
 ## Features
