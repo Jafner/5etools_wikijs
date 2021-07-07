@@ -2,7 +2,7 @@
 title: Settings Reference
 description: A Visual reference for the Plutonium Settings Config Manager
 published: true
-date: 2021-07-07T22:44:40.942Z
+date: 2021-07-07T22:55:47.497Z
 tags: plutonium, support
 editor: markdown
 dateCreated: 2021-07-07T22:12:29.930Z
@@ -33,6 +33,16 @@ The type of canvas object that should be created when drag-dropping images from 
 - Journal Notes
 - Scenes
 {.grid-list}
+
+```mermaid
+classDiagram
+    class SelectFrom
+    SelectFrom : Tiles
+    SelectFrom : Tokens
+    SelectFrom : Journal Notes
+    SelectFrom : Scenes
+```
+
 
 ### Tile/Scene Scaling
 A factor by which to scale placed tiles, and by which to scale scene backgrounds.
