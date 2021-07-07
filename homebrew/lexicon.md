@@ -2,7 +2,7 @@
 title: Homebrew Lexicon
 description: Directory of type schemata for homebrew
 published: true
-date: 2021-07-07T21:39:54.479Z
+date: 2021-07-07T22:03:06.630Z
 tags: homebrew, schema
 editor: markdown
 dateCreated: 2021-07-07T17:51:36.299Z
@@ -100,14 +100,10 @@ These are most often enviromental hazards and climate issues, though can also in
 Items are the most complicated homebrew structures due to their broad scope which covers:
 Magical & Mundane items, Trade Goods, Tool Kits, Mounts, Vehicles, Instruments, Weapons, Armour, etc.
 
+## J
 
-
-
-=====J=====
-<hr>
-
-:: `json`  - A key type for homebrew (string)
-:::: 	An identifying string, as seen in the JSON in "source" fields.	
+`json` - A **Key** type for homebrew (string)
+An identifying string, as seen in the JSON in "source" fields.	
 :::: FOUND IN: [[Homebrew:_Meta|_Meta]] Object
 
 
