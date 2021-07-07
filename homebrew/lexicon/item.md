@@ -2,7 +2,7 @@
 title: Homebrew: item
 description: Homebrew Schema for the "item" type
 published: true
-date: 2021-07-07T18:01:39.233Z
+date: 2021-07-07T18:57:19.478Z
 tags: homebrew, schema
 editor: markdown
 dateCreated: 2021-07-07T17:45:56.188Z
@@ -34,7 +34,9 @@ To start, copy the following code block and fill the empty `""` values.
 - `"page"` — the page of the document where this item appears. If this does not apply, leave at 0.
 - `"type"` — the type of the item. See the table below for all the different options.
 - `"rarity"` — "None" is for mundane items. "Unknown (Magic)" is for miscellaneous magical items. "Unknown" is for miscellaneous mundane tems. "Varies" is for item groups.
-- ```"rare", "none", "uncommon", "very rare", "legendary", "artifact", "unknown", "common", "unknown (magic)", "varies"```
+> `"rare", "none", "uncommon", "very rare", "legendary", "artifact", "unknown", "common", "unknown (magic)", "varies"`
+{.is-info}
+
 - `"entries"` — the text of the item. You can write several strings ("") separated with a comma. If the item doesn't have any associated text, it is safe to remove.
 
 ## Adding info text or image
