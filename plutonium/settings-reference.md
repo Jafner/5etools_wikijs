@@ -2,7 +2,7 @@
 title: Settings Reference
 description: A Visual reference for the Plutonium Settings Config Manager
 published: true
-date: 2021-07-07T23:02:39.096Z
+date: 2021-07-07T23:09:35.658Z
 tags: plutonium, support
 editor: markdown
 dateCreated: 2021-07-07T22:12:29.930Z
@@ -37,6 +37,7 @@ The type of canvas object that should be created when drag-dropping images from 
 ### Tile/Scene Scaling
 A factor by which to scale placed tiles, and by which to scale scene backgrounds.
 **Numeric input:** `1` Default
+
 ### Token Size
 The default size of placed tokens.
 - Medium or smaller DEFAULT
@@ -65,11 +66,23 @@ Multiselect
 - [x] Note scene controls
 - [x] Scene controls
 
-
-
 ## Equipment Shop
+![equipmentshop.png](/assets/plutonium-settings/equipmentshop.png){.align-center}
 
-Any content here will go into the third tab...
+### Price Multiplier
+A factor by which the prices in the equipment shop are multiplied.
+**Numeric input:** `1` Default
+
+### Minimum Permission Level
+"Equipment Shop" button will be hidden for any user with a role less than the chosen role.
+
+- None DEFAULT 
+- Player
+- Trusted
+- Assistant
+- Gamemaster
+{.grid-list}
+
 
 ## Import
 
