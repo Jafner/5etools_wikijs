@@ -2,7 +2,7 @@
 title: Outline
 description: Development page for outlining site content for conversion
 published: true
-date: 2021-07-07T04:22:47.974Z
+date: 2021-07-07T04:38:13.477Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-07T04:15:52.461Z
@@ -25,14 +25,25 @@ This is essentially a table of contents for the conversion of the site. It will 
 # 5eTools
 ## Website
 ## User Guide
+### About 5eTools
+### Page Layout
+### Site Hotkeys
+### Legal
 ## Install Guide
+### Pre-loading data for offline browsing
+#### Desktop
+#### Mobile
+### Hosting your own instance
+#### Running a web server
+#### Running a Docker container
+#### Auto-loading homebrew
 ## Features
 ## Code
-## Support
+## Support (links to /Troubleshooting/5eTools)
 ## FAQ
 ## Known Issues
-## Content
-## Give Thanks
+## Homebrew Content (links to /homebrew)
+## Give Thanks (links to /SupportTheProject)
 
 # Homebrew
 ## Getting Started
