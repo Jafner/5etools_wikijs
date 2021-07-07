@@ -2,7 +2,7 @@
 title: Settings Reference
 description: A Visual reference for the Plutonium Settings Config Manager
 published: true
-date: 2021-07-07T22:17:58.260Z
+date: 2021-07-07T22:18:55.580Z
 tags: plutonium, support
 editor: markdown
 dateCreated: 2021-07-07T22:12:29.930Z
@@ -28,4 +28,4 @@ Any content here will go into the third tab...
 
 ## Import
 
-![](/assets/plutonium-settings/importtab.png)
+![importtab.png](/assets/plutonium-settings/importtab.png)
