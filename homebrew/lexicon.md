@@ -2,7 +2,7 @@
 title: Homebrew Lexicon
 description: Directory of type schemata for homebrew
 published: true
-date: 2021-07-07T18:56:01.396Z
+date: 2021-07-07T21:31:46.221Z
 tags: homebrew, schema
 editor: markdown
 dateCreated: 2021-07-07T17:51:36.299Z
@@ -84,33 +84,15 @@ A description of a disease, ailment or illness and its mechnaical effect.
 
 ## E
 
-:: <code>"entries"</code> — the text of the action. Note that you can write several strings ("") separated with a comma.
 
-=====F=====
-<hr>
+## F
+`Feats` - An Object type for homebrew
+Feats that can be chosen by a character
 
-:: [[Homebrew:_Feats |`Feats`]]  - An Object type for homebrew
-:::: Custom Feats
+## G
 
-
-:: `@filter` - Tag for Entries to pull
-:::: 
-:::: {@filter your text here|spells|duration=[&10 minutes;&24+ hours]}
-
-:: <code>fromVariant</code> - 
-:::: 
-
-:: <code>full</code> - Full title of the source, to display on the site.	
-:::: 
-
-=====G=====
-<hr>
-
-
-=====H=====
-<hr>
-
-:: [[Homebrew:_Hazard |`Hazard`]]  - An Object type for homebrew
+## H
+`Hazard` - An Object type for homebrew
 :::: These are most often enviromental hazards and climate issues, not as simple as traps but still worthwhile.
 
 
