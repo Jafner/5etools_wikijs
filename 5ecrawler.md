@@ -2,7 +2,7 @@
 title: 5eCrawler User Guide
 description: 
 published: true
-date: 2021-07-07T22:32:40.823Z
+date: 2021-07-07T22:33:01.050Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-07T22:32:40.823Z
@@ -15,10 +15,6 @@ All of these are Discord bots. If you are not familiar with Discord, it is, effe
 
 # Getting Started
 5eCrawler is a Discord bot designed to assist players and DMs by providing reference information via chat commands. To begin using the bot, simply invite the bot to join your server, configure it to your taste, and get to gaming!
-
-So, for that let's directly link to where you likely want to go...
-
-* [Invite it to your Discord server](https://discordapp.com/oauth2/authorize?client_id=559331529378103317&scope=bot&permissions=536977472)
 
 ## Inviting 5eCrawler to your server
 You can easily invite the 5eCrawler bot to your own server by clicking [this link](https://discordapp.com/oauth2/authorize?client_id=559331529378103317&scope=bot&permissions=536977472%7Cthis)!
