@@ -2,7 +2,7 @@
 title: Main Page
 description: 
 published: true
-date: 2021-07-07T06:26:57.127Z
+date: 2021-07-07T21:30:22.110Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-06T23:52:24.310Z
@@ -18,7 +18,7 @@ This site makes used of collapsible sections of text. Each feature will have a s
 
 # Projects Covered
 
-## ![expand.webp](/assets/expand.webp)![5etoolslogocircle.png](/5etoolslogocircle.png =24x24) 5eTools 
+## ![5etoolslogocircle.png](/assets/5etoolslogocircle.png =24x24) 5eTools 
 
 A suite of browser-based tools for players and DMs of D&D 5e. You can download the entire project from [get.5e.tools](https://get.5etools.com/) to run a local (offline) copy. You can use the [5etools website](https://5e.tools/) and you can enhance your Roll20 or Foundry experience with its companion script's features.
 
