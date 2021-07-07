@@ -2,7 +2,7 @@
 title: Outline
 description: Development page for outlining site content for conversion
 published: true
-date: 2021-07-07T04:38:13.477Z
+date: 2021-07-07T04:50:30.256Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-07T04:15:52.461Z
