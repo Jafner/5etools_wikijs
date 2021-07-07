@@ -2,7 +2,7 @@
 title: Homebrew Lexicon
 description: Directory of type schemata for homebrew
 published: true
-date: 2021-07-07T18:55:28.754Z
+date: 2021-07-07T18:56:01.396Z
 tags: homebrew, schema
 editor: markdown
 dateCreated: 2021-07-07T17:51:36.299Z
@@ -27,7 +27,7 @@ Reference for the mechanical economy of a creature's combat turn.
 A playable adventure. Should include maps, event descriptions, creatures, NPCs, items, etc.
 
 
-### B
+## B
 
 `background`  - An Object type for homebrew
 A character background that gives proficiencies in skills/tools/languages and some starting equipment.
@@ -44,7 +44,7 @@ Books are a single file containing all of the content in a published reference s
 Special rewards from powerful creatures for a character's service.
 
 
-### C
+## C
 
 `class` - An Object type for homebrew
 Character class information, including progression, hit dice, starting equipment, class resources etc
@@ -71,7 +71,7 @@ This is the equivalent of a Stat Block; for both monsters and NPCs.
 `cult` - An Object type for homebrew
 An organization or guild, usually with a religious cohessive element
 
-### D
+## D
 
 
 `deity` - An Object type for homebrew
@@ -82,7 +82,7 @@ A god; usually with a description of their alignment, domains and pantheon.
 A description of a disease, ailment or illness and its mechnaical effect.
 
 
-### E
+## E
 
 :: <code>"entries"</code> — the text of the action. Note that you can write several strings ("") separated with a comma.
 
