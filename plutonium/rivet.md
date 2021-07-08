@@ -2,8 +2,8 @@
 title: Rivet Installation
 description: Guide to the Rivet Extension
 published: true
-date: 2021-07-08T16:14:23.722Z
-tags: plutonium
+date: 2021-07-08T16:18:58.435Z
+tags: plutonium, install, rivet, chrome, firefox
 editor: markdown
 dateCreated: 2021-07-08T15:40:41.009Z
 ---
