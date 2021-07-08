@@ -2,11 +2,22 @@
 title: Main Page
 description: 
 published: true
-date: 2021-07-07T21:30:22.110Z
+date: 2021-07-08T15:18:45.916Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-06T23:52:24.310Z
 ---
+
+> EXAMPLE: **CURRENT SERVICE OUTAGE:** https://5e.tools is down. Please join the [discord](https://discord.gg/nGvRCDs) for updates.
+{.is-danger}
+
+> EXAMPLE: **CURRENT SERVICE DEGREDATION:** One of the hosting services for the [Art Repo](https://dmsguild201.github.io/Roll20_resources/) is down, no ETA for restored service is available.
+{.is-warning}
+
+> EXAMPLE: **ALL SERVICES ARE FULLY OPERATIONAL**
+{.is-success}
+
+
 
 # Welcome to the 5eTools wiki
 
