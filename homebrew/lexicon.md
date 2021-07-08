@@ -2,7 +2,7 @@
 title: Homebrew Lexicon
 description: Directory of type schemata for homebrew
 published: true
-date: 2021-07-07T22:03:06.630Z
+date: 2021-07-08T15:10:31.982Z
 tags: homebrew, schema
 editor: markdown
 dateCreated: 2021-07-07T17:51:36.299Z
@@ -96,9 +96,12 @@ Feats that can be chosen by a character
 These are most often enviromental hazards and climate issues, though can also include traps.
 
 ## I
-[item](/en/homebrew/lexicon/item) - An Object type for homebrew
+- [`item` *An Object type for homebrew*](/en/homebrew/lexicon/item)
+{.links-list}
+
 Items are the most complicated homebrew structures due to their broad scope which covers:
 Magical & Mundane items, Trade Goods, Tool Kits, Mounts, Vehicles, Instruments, Weapons, Armour, etc.
+
 
 ## J
 
