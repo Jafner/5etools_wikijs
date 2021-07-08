@@ -2,7 +2,7 @@
 title: Rivet Installation
 description: Guide to the Rivet Extension
 published: true
-date: 2021-07-08T16:13:47.242Z
+date: 2021-07-08T16:14:23.722Z
 tags: plutonium
 editor: markdown
 dateCreated: 2021-07-08T15:40:41.009Z
@@ -10,7 +10,7 @@ dateCreated: 2021-07-08T15:40:41.009Z
 
 # What Rivet Does
 
-![rivet.gif](/assets/rivet/rivet.gif)
+![rivet.gif](/assets/rivet/rivet.gif){.align-center}
 
 # How to Install Rivet
 Follow the links below depending upon the browser
