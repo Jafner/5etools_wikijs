@@ -1,9 +1,9 @@
 ---
-title: Main Page
-description: 
+title: 5eTools Wiki
+description: This is the homepage
 published: true
-date: 2021-07-08T15:18:45.916Z
-tags: 
+date: 2021-07-08T15:19:39.081Z
+tags: core wiki
 editor: markdown
 dateCreated: 2021-07-06T23:52:24.310Z
 ---
