@@ -2,7 +2,7 @@
 title: 5eTools User Guide
 description: Information about the main 5eTools website.
 published: false
-date: 2021-07-10T02:18:13.875Z
+date: 2021-07-10T02:18:43.836Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-07T16:35:15.997Z
