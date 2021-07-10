@@ -1,8 +1,8 @@
 ---
 title: 5eTools Install Guide
 description: Walk through setting up your own instance of 5eTools
-published: false
-date: 2021-07-10T01:53:00.289Z
+published: true
+date: 2021-07-10T02:12:56.740Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-07T23:02:22.605Z
@@ -76,6 +76,29 @@ TODO
 For more information about Docker, check out the [Docker docs](https://docs.docker.com/).
 For more information about the Jafner/5etools-docker image, check out the [Github repository](https://github.com/Jafner/5etools-docker) or [Dockerhub page](https://hub.docker.com/repository/docker/jafner/5etools-docker).
 
+## MacOS
+TODO
 
+# Auto-Loading Homebrew
+Once you have a working instance of 5eTools, you can configure your instance to automatically load your choice of homebrew files for anyone browsing your instance. This is useful if you have personal homebrew that you would like to make easily accessible to your gaming group, or if members of your party are using homebrew for their characters and you would like to have that content pre-loaded.
 
+Note: this only works with homebrews already converted to work with the 5eTools homebrew schema. Read more about that on the [homebrew page](/homebrew/).
+
+1. Browse the [5eTools homebrew repository](https://github.com/TheGiddyLimit/homebrew) and download the files you want to automatically import. 
+2. Navigate to the `/homebrew/` subdirectory of your 5eTools installation folder. The location depends on which of the installation methods above you used.
+3. Copy the homebrew json files you want to import into this directory.
+4. Edit the `/homebrew/index.json` file. Add the filenames of your newly-added homebrew files to the `"toImport"` array. When you're done, it should look something like this:
+
+```json
+"toImport": [
+    "Brewer; Cool Magic Items.json",
+    "Brewer; Cool Monsters.json",  
+    "Me; My Campaign Brews.json"
+]
+```
+Pay special attention to the use of commas. All but the last item in the list should have a comma at the end.
+
+5. Done! You should now see your homebrew load automatically when you refresh the page.
+
+For more information, check out the [homebrew page](/homebrew/) of this wiki.
 
