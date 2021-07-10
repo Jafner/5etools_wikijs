@@ -2,7 +2,7 @@
 title: 5eTools Install Guide
 description: Walk through setting up your own instance of 5eTools
 published: true
-date: 2021-07-10T02:12:56.740Z
+date: 2021-07-10T17:03:39.289Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-07T23:02:22.605Z
@@ -19,7 +19,7 @@ Go to [get.5e.tools](https://get.5e.tools) and download the latest release of th
 ![get.5e.tools.png](/assets/get.5e.tools.png)
 
 # Serving the Files
-Once you have the 5eTools server source files, you'll need a way to serve them, on your PC, local network, or even the internet. This guide will cover setting up 5eTools with a handful of the most popular web servers, sorted by operating system.
+Once you have the 5eTools server source files, you'll need a way to serve them, on your PC, local network, or even the internet. This guide will cover setting up 5eTools with `devd`, a lightweight local web server. If you would prefer a "full-fat" solution, we also cover a handful of the most popular web servers, sorted by operating system.
 
 ## Windows
 For the purposes of this guide (to keep our wiki maintainers sane), we'll assume you're using Windows 10.
@@ -77,7 +77,16 @@ For more information about Docker, check out the [Docker docs](https://docs.dock
 For more information about the Jafner/5etools-docker image, check out the [Github repository](https://github.com/Jafner/5etools-docker) or [Dockerhub page](https://hub.docker.com/repository/docker/jafner/5etools-docker).
 
 ## MacOS
-TODO
+MacOS comes with Apache server installed by default, so that's what we'll use for this.
+
+1. Open the Terminal app. 
+2. Start the server with `sudo apachectl start` to generate the default config files for Apache. The stop the server with `sudo apachectl stop`.
+3. Navigate to the default Apache config file at `/etc/apache2/httpd.conf` and open it with your prefered text editor.
+4. Edit the two lines which define the root of the web server:
+
+```cfg
+
+```
 
 # Auto-Loading Homebrew
 Once you have a working instance of 5eTools, you can configure your instance to automatically load your choice of homebrew files for anyone browsing your instance. This is useful if you have personal homebrew that you would like to make easily accessible to your gaming group, or if members of your party are using homebrew for their characters and you would like to have that content pre-loaded.
